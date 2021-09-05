@@ -7,3 +7,6 @@ Shizzle the street
 
 ## Jumping from a plane and smiling
 Shizzle that smile
+
+## Sleeping like a whale in a lake without water
+Shizzle that lake
