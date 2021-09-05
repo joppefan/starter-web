@@ -1,7 +1,5 @@
-# Starter Web Repo
-
-This repository is for showing how Git and GitHub work
-
-## Purpose
-
-Sample website with plenty of files for demos
+#README Shizzle 
+##Going down the river with a boat without shizzle
+Shizzle the boat
+##Running down the street without shizzle
+Shizzle the street
